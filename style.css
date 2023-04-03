@@ -1,0 +1,154 @@
+.page-body {
+            
+    background-image: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+   
+
+}
+
+.main-div {
+    background-color: hsl(0, 0%, 20%);
+    background-image: linear-gradient(19deg, hsl(0, 0%, 20%) 0%, hsl(0, 0%, 70%) 100%);
+    margin-top: 16px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+.left-side {
+    
+    display: inline-block;
+    
+    margin-right: 0px;
+   
+}
+.right-side {
+    display: inline-block;
+    width: 85%;
+    vertical-align: top;
+    padding-left: 10px;
+}
+.mypic {
+    width:150px;
+    border-radius: 5%;
+    margin-top: 22px;
+    margin-left: 22px;
+    size: 85%;
+}
+.para-one {
+    margin-bottom: 20px;
+    text-align: left;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 15px;
+    margin-top: 50px;
+}
+.para-two {
+    margin-top: 0px;
+    margin-bottom: 70px;
+    text-align: left;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 15px;
+}
+.left-part-below {
+    display: inline-block;
+    width: 48.8%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 10px;
+    
+}
+.my-information {
+    background-color: hsl(0, 0%, 20%);
+    background-image: linear-gradient(19deg, hsl(0, 0%, 20%) 0%, hsl(0, 0%, 70%) 100%);
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.contact {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: linear-gradient(19deg, hsl(0, 0%, 20%) 0%, hsl(0, 0%, 70%) 100%);
+    border-radius: 8px;
+}
+.contact-me {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 25px;
+}
+.icons {
+    display: flex;
+    list-style-type: none;
+    margin-left: 0px;
+}
+.contact-icons {
+    width: 40px;
+    padding-right: 8px;
+    margin-bottom: 15px;
+    
+}
+
+.my-gallery {
+    display: inline-block;
+    width: 48.5%;
+    vertical-align: top;
+    background-image: linear-gradient(19deg, hsl(0, 0%, 20%) 0%, hsl(0, 0%, 70%) 100%);
+    border-radius: 8px;
+    margin-top: 12px;
+    margin-left: 4px;
+}
+.my-headings {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+.my-headings-gallery {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+.my-description {
+font-family: arial;
+line-height: 30px;
+font-size: 20px;
+margin-left: 15px;
+margin-top: 0px;
+}
+.pic-1 {
+    width: 45%;
+    margin-left: 17px;
+    border-radius: 8px;
+    margin-bottom: 14px;
+}
+.pic-2 {
+    width: 54%;
+    margin-left: 16px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+.pic-3 {
+    width: 47%;
+    border-radius: 8px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.pic-4 {
+    width: 38%;
+    border-radius: 8px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
